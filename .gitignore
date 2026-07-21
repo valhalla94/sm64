@@ -70,3 +70,4 @@ build/*
 !/sound/**/*custom*/**/*.aiff
 !/assets/**/*custom*.bin
 !/assets/**/*custom*/**/*.bin
+tests/test_math_util
